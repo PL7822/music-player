@@ -1,3 +1,4 @@
+## 🌐 Portfolio: [pritam-lendale](https://portfolio-master-pritam.netlify.app/)
 # 🎵 MP3 Songs - Music Player Web App
 
 A simple yet powerful **web-based music player** that allows users to play, pause, and enjoy MP3 songs directly in the browser.  
@@ -67,3 +68,4 @@ Developed by: Pritam Lendale
 📧 Email: pritamlendale@gmail.com
 
 🌐 Portfolio: [pritam-lendale](https://portfolio-master-pritam.netlify.app/)
+
